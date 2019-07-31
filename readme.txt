@@ -1,4 +1,4 @@
-Clothes related datasets:
+1. Clothes related datasets:
 
 fashionista dataset:
 https://github.com/bobbens/clothes_parsing.git
@@ -16,3 +16,22 @@ https://github.com/switchablenorms/DeepFashion2.git
 
 ModaNet:
 https://github.com/eBay/modanet.git
+
+
+2. Human body part related datasets:
+PPSS
+Pascal Person Part
+
+3. body part and clothes related datasets:
+ATR
+LIP
+CIHP
+MHP
+
+4. human pose and key point datasets:
+MPII
+FLIC
+COCO
+AIchallenger
+
+
